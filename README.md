@@ -1,6 +1,6 @@
 # cookies
 
-> A Vue.js project
+> No se almacena la cookie hasta que no se acepte.
 
 ## Build Setup
 
